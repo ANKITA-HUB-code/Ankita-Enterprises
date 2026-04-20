@@ -30,3 +30,14 @@ A full-stack MERN eCommerce web application built to provide a seamless online s
 Ankita Nandi
 
 Note: Frontend built using Vite + React, Backend built using Node.js + Express.
+## How to Run This Project
+
+### Frontend
+cd client
+npm install
+npm run dev
+
+### Backend
+cd backend
+npm install
+npm start
