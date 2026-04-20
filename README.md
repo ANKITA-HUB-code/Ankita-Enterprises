@@ -1,47 +1,72 @@
-# Ankita Enterprises
+# 🛒 Ankita Enterprises - MERN eCommerce Web App
 
-A full-stack MERN eCommerce web application built to provide a seamless online shopping experience.
+## 🚀 Overview
 
-## Features
-- User Signup/Login Authentication
-- Product Listings
-- Add to Cart
-- Cart Management
-- Responsive UI
-- REST API Integration
+A full-stack MERN eCommerce web application built to provide a seamless online shopping experience. Users can browse products, manage their cart, and interact with a responsive UI.
 
-## Tech Stack
-- MongoDB
-- Express.js
-- React.js
-- Node.js
+---
 
-## Project Structure
-/client - Frontend React App  
-/server - Backend Node/Express App
+## ✨ Features
 
-## Future Enhancements
-- Payment Gateway Integration
-- Admin Dashboard
-- Order Tracking
-- Wishlist
+* User Signup & Login Authentication
+* Product Listings
+* Add to Cart Functionality
+* Cart Management
+* Responsive UI
+* REST API Integration
 
-## Developed By
-Ankita Nandi
+---
 
-Note: Frontend built using Vite + React, Backend built using Node.js + Express.
-## How to Run This Project
+## 🛠 Tech Stack
 
-### Frontend
+* **Frontend:** React.js (Vite)
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+
+---
+
+## 📁 Project Structure
+
+* `/client` → Frontend (React App)
+* `/server` → Backend (Node + Express API)
+
+---
+
+## 📸 Screenshots
+
+(We will add screenshots here in next step)
+
+---
+
+## ⚙️ How to Run This Project
+
+### 🔹 Frontend
+
 ```bash
 cd client
 npm install
 npm run dev
 ```
 
-### Backend
+### 🔹 Backend
+
 ```bash
-cd backend
+cd server
 npm install
 npm start
 ```
+
+---
+
+## 🔮 Future Enhancements
+
+* Payment Gateway Integration
+* Admin Dashboard
+* Order Tracking
+* Wishlist
+
+---
+
+## 👩‍💻 Developed By
+
+**Ankita Nandi**
