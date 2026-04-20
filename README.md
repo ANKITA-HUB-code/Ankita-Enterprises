@@ -33,11 +33,15 @@ Note: Frontend built using Vite + React, Backend built using Node.js + Express.
 ## How to Run This Project
 
 ### Frontend
+```bash
 cd client
 npm install
 npm run dev
+```
 
 ### Backend
+```bash
 cd backend
 npm install
 npm start
+```
